@@ -10,7 +10,7 @@ This assignment explores the application of data analytics techniques on the Hou
 4. Analyze the dataset based on multiple criteria and document findings with appropriate graphs and code.
 5. Provide meaningful insights to aid decision-making.
 
-A **supporting document** must reflect the analysis with R programming concepts, including graphs and code.
+A **supporting document** reflect the analysis with R programming concepts, including graphs and code.
 
 ---
 
