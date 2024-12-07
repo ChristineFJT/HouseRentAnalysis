@@ -1,4 +1,4 @@
-# House Rent Prediction Dataset
+# House Rent Analysis
 
 ## Overview
 This assignment explores the application of data analytics techniques on the House Rent Prediction dataset. The task involves studying data-related problems within the dataset, focusing on the unique properties of the problem domain, and applying one or more analytical techniques.
